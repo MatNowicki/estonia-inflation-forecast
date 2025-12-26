@@ -5,6 +5,9 @@ Automated econometric pipeline for forecasting HICP Inflation in Estonia. The pr
 
 **Objective:** Predict the inflation path for 2025-2027 to analyze economic stabilization and support strategic decision-making.
 
+![Estonia Inflation Forecast Chart](forecast_chart.png)
+*(Fig 1. Historical HICP data vs. 24-month forecast showing convergence to equilibrium)*
+
 ## 🛠 Tech Stack
 * **Language:** Python 3.11+
 * **Data Engineering:** `pandas`, `eurostat` (Live API connection), `functools`
