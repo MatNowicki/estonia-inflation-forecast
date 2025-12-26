@@ -1,0 +1,19 @@
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Pliki tymczasowe Pythona (Cache)
+__pycache__/
+*.py[cod]
+
+# Pliki tymczasowe Jupytera (Checkpointy)
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Folder ustawień VS Code (opcjonalnie, zależy czy chcesz dzielić ustawienia)
+.vscode/
+
+# Wirtualne środowiska (jeśli kiedyś stworzysz venv)
+env/
+venv/
+.env
